@@ -1,0 +1,9 @@
+# pytorch specific
+*.ckpt
+
+# Jupitar Notebook Specific
+.ipynb_checkpoints
+/.ipynb_checkpoints
+
+# Colab specific
+__pycache__/
